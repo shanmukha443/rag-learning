@@ -49,10 +49,8 @@ query_embedding = model.encode(
 
 results = collection.query(
     query_embeddings=[query_embedding.tolist()],
-    n_results=3,
-    where={"document": "linux.txt"}
+    n_results=3
 )
-
 # --------------------------------
 # 7. Display results
 # --------------------------------

@@ -1,3 +1,4 @@
+(.venv) Zoro@zoro:~/Code/rag-learning$ cat README.md
 # RAG Learning — Local Retrieval-Augmented Generation System
 
 A hands-on implementation of a **Retrieval-Augmented Generation (RAG)** system built from the ground up using Python, sentence embeddings, vector search, ChromaDB, and a local LLM.
@@ -48,20 +49,20 @@ The next major stage is connecting **ChromaDB + retrieval + local Qwen LLM** int
 # ✨ Features
 
 * 📄 Load text documents
-* ✂️ Split documents into chunks
+* ✂ Split documents into chunks
 * 🧠 Generate sentence embeddings
 * 🔎 Perform semantic similarity search
 * 📦 Store embeddings using Pickle
-* 🗄️ Store vectors using persistent ChromaDB
+* 🗄 Store vectors using persistent ChromaDB
 * 🤖 Run a local Qwen LLM
 * 🔗 Build RAG prompts using retrieved context
 * 📊 Inspect retrieval scores/distances
-* 🏷️ Maintain versioned Git milestones
+* 🏷 Maintain versioned Git milestones
 * 💻 Designed to run locally
 
 ---
 
-# 🛠️ Technology Stack
+# 🛠 Technology Stack
 
 | Technology            | Purpose                             |
 | --------------------- | ----------------------------------- |
@@ -78,7 +79,7 @@ The next major stage is connecting **ChromaDB + retrieval + local Qwen LLM** int
 
 ---
 
-# ⚙️ Installation
+# ⚙ Installation
 
 ## 1. Clone the repository
 
@@ -164,7 +165,7 @@ rag-learning/
 
 ---
 
-# ▶️ How to Run
+# ▶ How to Run
 
 ## v0.1 — Pickle Vector Store
 
@@ -562,7 +563,7 @@ The project will continue evolving through versioned Git milestones.
 
 ---
 
-# 👨‍💻 Author / Credits
+# 👨‍💻uthor / Credits
 
 **Shanmukha Murthy**
 
@@ -579,3 +580,4 @@ This project is built as a hands-on learning project focused on:
 * Prompt Engineering
 * Python
 * Git and GitHub
+(.venv) Zoro@zoro:~/Code/rag-learning$ 

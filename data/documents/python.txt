@@ -1,0 +1,4 @@
+Python is a high-level programming language.
+Python supports virtual environments.
+Python is commonly used for data engineering,
+machine learning and automation.

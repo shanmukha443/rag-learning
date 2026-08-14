@@ -1,0 +1,5 @@
+Linux is an open-source operating system.
+Fedora is a Linux distribution.
+DNF is the package manager commonly used
+on Fedora.
+Linux is widely used for servers and development.

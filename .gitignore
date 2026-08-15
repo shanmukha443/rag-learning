@@ -11,3 +11,6 @@ vector_store.pkl
 
 .vscode/
 .idea/
+
+data/evaluation/
+data/squad/
